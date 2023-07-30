@@ -1,5 +1,5 @@
 # Hi Guys  (*￣０￣)ノ 
-## I am a software engineer <em> ╮(╯▽╰)╭ </em>
+## I am a software engineer  ╮(╯▽╰)╭ 
 
 ```javascript
 const thai = {
