@@ -1,7 +1,8 @@
-<h1> Hi Guys  (*￣０￣)ノ </h1>
-<p style="font-size:24px;"> Hi Guys  (*￣０￣)ノ </p>
-<h2> I am a software engineer  ╮(╯▽╰)╭ </h2> 
 
+<p style="font-size:100px;"> Hi Guys  (*￣０￣)ノ </p>
+<p style="font-size:100px;"> I am a software engineer  ╮(╯▽╰)╭ノ </p>
+<!-- <h2> I am a software engineer  ╮(╯▽╰)╭ </h2> 
+ -->
 ```javascript
 const thai = {
   pronouns: "she" | "her",
