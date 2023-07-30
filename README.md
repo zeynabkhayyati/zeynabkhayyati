@@ -2,9 +2,9 @@
 # Hi Guys  (*￣０￣)ノ
 ## I am a software engineer  ╮(╯▽╰)╭ 
 
-#
+<h2>
 
-```javascript
+  ```javascript
 const me = {
 
   name: "zeynab khayyati" ,
@@ -15,6 +15,7 @@ const me = {
   skills: ["UI/UX Design" , "Figma" , "Trade" , "Seo" , "TelegramBot(python/php)" , "responsive designe" ]
 
   }
+</h2>
 
 ```
 
