@@ -1,6 +1,4 @@
-# Hi Guys  (*￣０￣)ノ
-
-## I am a software engineer    ╮(╯▽╰)╭
+# Hi Guys  (*￣０￣)ノ ## I am a software engineer    ╮(╯▽╰)╭
 
 ```javascript
 const thai = {
