@@ -1,5 +1,5 @@
 <h1> Hi Guys  (*￣０￣)ノ </h1>
-<h2>I am a software engineer  ╮(╯▽╰)╭ </h2> 
+<h2> I am a software engineer  ╮(╯▽╰)╭ </h2> 
 
 ```javascript
 const thai = {
