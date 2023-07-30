@@ -1,6 +1,6 @@
 
-<p style="font-size:100px;"> Hi Guys  (*￣０￣)ノ </p>
-<p style="font-size:100px;"> I am a software engineer  ╮(╯▽╰)╭ノ </p>
+# Hi Guys  (*￣０￣)ノ
+## I am a software engineer  ╮(╯▽╰)╭ノ 
 
 ```javascript
 const thai = {
