@@ -1,12 +1,13 @@
-# Hi Guys  (*￣０￣)ノ 
-## I am a software engineer  ╮(╯▽╰)╭ 
+<h1> Hi Guys  (*￣０￣)ノ </h1>
+<h2>I am a software engineer  ╮(╯▽╰)╭ </h2> 
 
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  Languages & codes: [Javascript, Typescript, HTML, CSS(Sass), Python, Php, ],
+  frameworks & libraries: [Bootstrap, Jquery,  ],
+  tools: [NodeJs,  ],
+  Skills: [UI/UX Design, ],
 
 ```
 
