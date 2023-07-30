@@ -4,7 +4,7 @@
 
 ```javascript
 const thai = {
-  name: "zeynab khayyati"
+  name: "zeynab khayyati" ,
   languages_&_codes: [ "Javascript" , "Typescript" , "HTML" , "CSS(Sass)" , "Python" , "Php" , "Markdown" ],
   frameworks_&_libraries: ["Bootstrap" , "Jquery" , "Numpy" , "Pandas" , "Express" ],
   databases: ["MongoDB" , "Mysql" ],
