@@ -7,7 +7,7 @@ const me = {
 
   name: "zeynab khayyati" ,
   languages_&_codes: [ "Javascript" , "Typescript" , "HTML" , "CSS(Sass)" , "Python" , "Php" , "Markdown" ],
-  libs_&_ramework: ["Bootstrap" , "Jquery" , "Numpy" , "Pandas" , "Express" ],
+  libs_&_framework: ["Bootstrap" , "Jquery" , "Numpy" , "Pandas" , "Express" ],
   databases: ["MongoDB" , "Mysql" ],
   tools: ["NodeJs(Api)" , "Git(Github)" ],
   skills: ["UI/UX Design" , "Figma" , "Trade" , "Seo" , "TelegramBot(python/php)" , "responsive designe" ]
