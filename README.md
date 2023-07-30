@@ -4,12 +4,12 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  languages & codes: [Javascript, Typescript, HTML, CSS(Sass), Python, Php, Markdown ],
-  frameworks & libraries: [Bootstrap, Jquery, Numpy, Pandas, Express ],
-  databases: [MongoDB, Mysql, ],
-  tools: [NodeJs(Api), Git(Github) ],
-  skills: [UI/UX Design, Figma, Trade, Seo, TelegramBot=>python/php, responsive/designe ]
+  name: "zeynab khayyati"
+  languages_&_codes: [ "Javascript" , "Typescript" , "HTML" , "CSS(Sass)" , "Python" , "Php" , "Markdown" ],
+  frameworks_&_libraries: ["Bootstrap" , "Jquery" , "Numpy" , "Pandas" , "Express" ],
+  databases: ["MongoDB" , "Mysql" ],
+  tools: ["NodeJs(Api)" , "Git(Github)" ],
+  skills: ["UI/UX Design" , "Figma" , "Trade" , "Seo" , "TelegramBot(python/php)" , "responsive designe" ]
 }
 
 ```
