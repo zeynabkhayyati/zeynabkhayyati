@@ -26,5 +26,22 @@ const me = {
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&column=8)<br><br>
 
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br><br>
 
+
+<a href="https://t.me/soleymnimatin">
+    <img src="https://img.shields.io/badge/Channel-red?style=flat-square&logo=telegram">
+</a> 
+<a href="https://www.linkedin.com/in/zeynabkhayyati">
+    <img src="https://img.shields.io/badge/-Linkedin-purple?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="https://zeynab.khayyati.11@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-white?style=flat-square&logo=gmail&logoColor=f02e65">
+</a>
+<a href="https://instagram.com/zeynabkhayyati">
+    <img src="https://img.shields.io/badge/-Instagram-green?style=flat-square&logo=instagram&logoColor=black">
+</a>
+</a>
+<a href="https://t.me/TIME_TO_SELF">
+    <img src="https://img.shields.io/badge/@time_to_self-brown?style=flat-square&logo=telegram">
+</a>
